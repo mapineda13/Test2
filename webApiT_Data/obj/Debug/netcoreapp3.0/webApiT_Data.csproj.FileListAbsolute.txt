@@ -1,0 +1,8 @@
+C:\Users\mapi\source\repos\Pruebas\webApiT\webApiT_Data\bin\Debug\netcoreapp3.0\webApiT_Data.deps.json
+C:\Users\mapi\source\repos\Pruebas\webApiT\webApiT_Data\bin\Debug\netcoreapp3.0\webApiT_Data.dll
+C:\Users\mapi\source\repos\Pruebas\webApiT\webApiT_Data\obj\Debug\netcoreapp3.0\webApiT_Data.csprojAssemblyReference.cache
+C:\Users\mapi\source\repos\Pruebas\webApiT\webApiT_Data\obj\Debug\netcoreapp3.0\webApiT_Data.AssemblyInfoInputs.cache
+C:\Users\mapi\source\repos\Pruebas\webApiT\webApiT_Data\obj\Debug\netcoreapp3.0\webApiT_Data.AssemblyInfo.cs
+C:\Users\mapi\source\repos\Pruebas\webApiT\webApiT_Data\bin\Debug\netcoreapp3.0\webApiT_Data.pdb
+C:\Users\mapi\source\repos\Pruebas\webApiT\webApiT_Data\obj\Debug\netcoreapp3.0\webApiT_Data.dll
+C:\Users\mapi\source\repos\Pruebas\webApiT\webApiT_Data\obj\Debug\netcoreapp3.0\webApiT_Data.pdb

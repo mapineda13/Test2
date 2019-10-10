@@ -1,0 +1,126 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\mapi\\source\\repos\\Pruebas\\webApiT\\webApiT_Core\\webApiT_Core.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\mapi\\source\\repos\\Pruebas\\webApiT\\webApiT_Core\\webApiT_Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mapi\\source\\repos\\Pruebas\\webApiT\\webApiT_Core\\webApiT_Core.csproj",
+        "projectName": "webApiT_Core",
+        "projectPath": "C:\\Users\\mapi\\source\\repos\\Pruebas\\webApiT\\webApiT_Core\\webApiT_Core.csproj",
+        "packagesPath": "C:\\Users\\mapi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mapi\\source\\repos\\Pruebas\\webApiT\\webApiT_Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mapi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\Users\\mapi\\source\\repos\\Pruebas\\webApiT\\webApiT_Data\\webApiT_Data.csproj": {
+                "projectPath": "C:\\Users\\mapi\\source\\repos\\Pruebas\\webApiT\\webApiT_Data\\webApiT_Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mapi\\source\\repos\\Pruebas\\webApiT\\webApiT_Data\\webApiT_Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mapi\\source\\repos\\Pruebas\\webApiT\\webApiT_Data\\webApiT_Data.csproj",
+        "projectName": "webApiT_Data",
+        "projectPath": "C:\\Users\\mapi\\source\\repos\\Pruebas\\webApiT\\webApiT_Data\\webApiT_Data.csproj",
+        "packagesPath": "C:\\Users\\mapi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mapi\\source\\repos\\Pruebas\\webApiT\\webApiT_Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mapi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

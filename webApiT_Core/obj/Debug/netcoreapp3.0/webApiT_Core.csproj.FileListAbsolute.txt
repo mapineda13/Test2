@@ -1,0 +1,11 @@
+C:\Users\mapi\source\repos\Pruebas\webApiT\webApiT_Core\bin\Debug\netcoreapp3.0\webApiT_Core.deps.json
+C:\Users\mapi\source\repos\Pruebas\webApiT\webApiT_Core\bin\Debug\netcoreapp3.0\webApiT_Core.dll
+C:\Users\mapi\source\repos\Pruebas\webApiT\webApiT_Core\bin\Debug\netcoreapp3.0\webApiT_Core.pdb
+C:\Users\mapi\source\repos\Pruebas\webApiT\webApiT_Core\bin\Debug\netcoreapp3.0\webApiT_Data.dll
+C:\Users\mapi\source\repos\Pruebas\webApiT\webApiT_Core\bin\Debug\netcoreapp3.0\webApiT_Data.pdb
+C:\Users\mapi\source\repos\Pruebas\webApiT\webApiT_Core\obj\Debug\netcoreapp3.0\webApiT_Core.csprojAssemblyReference.cache
+C:\Users\mapi\source\repos\Pruebas\webApiT\webApiT_Core\obj\Debug\netcoreapp3.0\webApiT_Core.AssemblyInfoInputs.cache
+C:\Users\mapi\source\repos\Pruebas\webApiT\webApiT_Core\obj\Debug\netcoreapp3.0\webApiT_Core.AssemblyInfo.cs
+C:\Users\mapi\source\repos\Pruebas\webApiT\webApiT_Core\obj\Debug\netcoreapp3.0\webApiT_Core.csproj.CopyComplete
+C:\Users\mapi\source\repos\Pruebas\webApiT\webApiT_Core\obj\Debug\netcoreapp3.0\webApiT_Core.dll
+C:\Users\mapi\source\repos\Pruebas\webApiT\webApiT_Core\obj\Debug\netcoreapp3.0\webApiT_Core.pdb
